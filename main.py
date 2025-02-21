@@ -11,4 +11,5 @@ def main():
     total =  findTotal()
     print("The running total is: ", total)
     
+    
 main()
